@@ -1,0 +1,5 @@
+# BEGIN: /Users/macos/Documents/Projet2/.gitignore
+.env        # Ignore environment file
+vendor/     # Ignore composer dependencies
+node_modules/ # Ignore node dependencies
+# END: /Users/macos/Documents/Projet2/.gitignore
